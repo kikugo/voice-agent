@@ -1,7 +1,7 @@
 # AI Voice Assistant - Setup Guide
 
 <p align="center">
-  <img src="./.github/assets/app-icon.png" alt="Voice Assistant App Icon" width="100" height="100">
+  <img src="voice-assistant-frontend/.github/assets/app-icon.png" alt="Voice Assistant App Icon" width="100" height="100">
 </p>
 
 ## Dev Setup
